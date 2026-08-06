@@ -1,0 +1,873 @@
+{
+  "scannedAt": "2026-08-06T02:46:19.527Z",
+  "totalScanned": 154,
+  "totalPages": 13,
+  "failedCount": 0,
+  "failures": [],
+  "products": [
+    {
+      "id": "760",
+      "name": "大香蕉（威廉斯）",
+      "subtitle": "新鲜水果，产地直发",
+      "price": 7.2,
+      "image": "https://img.inongjia.net/b2b/product/NJ0697/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市西乡塘区,广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=760",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "916",
+      "name": "砀山青梨【翠玉梨】",
+      "subtitle": "",
+      "price": 9.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0870/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "安徽宿州市砀山县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=916",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "686",
+      "name": "东北铁皮柿子",
+      "subtitle": "铁皮柿子",
+      "price": 27,
+      "image": "https://img.inongjia.net/b2b/product/NJ0623/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "辽宁盘锦市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=686",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1438",
+      "name": "福建红白双拼芭乐",
+      "subtitle": "",
+      "price": 8,
+      "image": "https://img.inongjia.net/b2b/product/NJ1431/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "福建",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1438",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1437",
+      "name": "福建红心芭乐",
+      "subtitle": "",
+      "price": 8,
+      "image": "https://img.inongjia.net/b2b/product/NJ1430/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "福建",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1437",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1647",
+      "name": "高山脐橙",
+      "subtitle": "预计持续发货到5月转伦晚，6月转夏橙，9月转纽荷尔。全年发货。中途会换产地，会提前通知。请知悉。",
+      "price": 11.3,
+      "image": "https://img.inongjia.net/b2b/product/NJ1704/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "四川南充市,重庆重庆市开州区,湖北宜昌市秭归县,云南玉溪市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1647",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1514",
+      "name": "广东芭乐【京东快递】",
+      "subtitle": "广东精品芭乐，全年供应",
+      "price": 10.6,
+      "image": "https://img.inongjia.net/b2b/product/NJ1536/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广东汕头市龙湖区",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1514",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "470",
+      "name": "广东白心芭乐",
+      "subtitle": "",
+      "price": 10,
+      "image": "https://img.inongjia.net/b2b/product/NJ0418/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广东阳江市阳春市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=470",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1018",
+      "name": "广东红白双拼芭乐",
+      "subtitle": "红白双拼芭乐",
+      "price": 10,
+      "image": "https://img.inongjia.net/b2b/product/NJ0982/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广东阳江市江城区,广东阳江市阳春市,广东阳江市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1018",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "469",
+      "name": "广东红心芭乐",
+      "subtitle": "",
+      "price": 10,
+      "image": "https://img.inongjia.net/b2b/product/NJ0417/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广东阳江市江城区,广东阳江市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=469",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "945",
+      "name": "广西红心火龙果",
+      "subtitle": "广西红心火龙果",
+      "price": 12.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0902/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市兴宁区",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=945",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "45",
+      "name": "广西红心木瓜",
+      "subtitle": "",
+      "price": 5.8,
+      "image": "https://img.inongjia.net/b2b/product/NJ0006/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市兴宁区,广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=45",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "569",
+      "name": "广西小米蕉",
+      "subtitle": "原生态小米蕉 特香爆甜",
+      "price": 6.7,
+      "image": "https://img.inongjia.net/b2b/product/NJ0518/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市兴宁区,广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=569",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "63",
+      "name": "哈密瓜【西州蜜25号】",
+      "subtitle": "瓜皮麻绿 网翁密布 外表粗糙 内心甜蜜的哈密瓜",
+      "price": 13.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0024/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "海南乐东黎族自治县,山东聊城市莘县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=63",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "808",
+      "name": "海南燕窝果",
+      "subtitle": "富含青花素",
+      "price": 57,
+      "image": "https://img.inongjia.net/b2b/product/NJ0744/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "海南三亚市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=808",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "570",
+      "name": "红美人香蕉【红皮香蕉】",
+      "subtitle": "产地发货，不打催熟剂，口味正宗",
+      "price": 10.3,
+      "image": "https://img.inongjia.net/b2b/product/NJ0519/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市,福建漳州市南靖县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=570",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "43",
+      "name": "黄金百香果【钦蜜9号】",
+      "subtitle": "黄金百香果【钦蜜9号】",
+      "price": 9.2,
+      "image": "https://img.inongjia.net/b2b/product/NJ0004/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市,广西",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=43",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1036",
+      "name": "进口牛油果【上海仓】",
+      "subtitle": "秘鲁牛油果",
+      "price": 16,
+      "image": "https://img.inongjia.net/b2b/product/NJ1001/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "秘鲁",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1036",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1718",
+      "name": "绿心猕猴桃",
+      "subtitle": "",
+      "price": 6.58,
+      "image": "https://img.inongjia.net/b2b/product/NJ1784/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "河南",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1718",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "460",
+      "name": "洛川红富士",
+      "subtitle": "洛川苹果 脆甜红富士",
+      "price": 13.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0408/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "陕西延安市洛川县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=460",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "789",
+      "name": "马来西亚D197液氮猫山王榴莲",
+      "subtitle": "液氮冷冻果",
+      "price": 133,
+      "image": "https://img.inongjia.net/b2b/product/NJ0726/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "马来西亚",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=789",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1398",
+      "name": "奶油富士",
+      "subtitle": "奶油富士",
+      "price": 11,
+      "image": "https://img.inongjia.net/b2b/product/NJ1372/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东烟台市,山东烟台市莱阳市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1398",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "123",
+      "name": "南非西柚",
+      "subtitle": "饱满优美的外形",
+      "price": 15.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0084/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "南非",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=123",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1661",
+      "name": "柠檬",
+      "subtitle": "塔希提柠檬",
+      "price": 9.2,
+      "image": "https://img.inongjia.net/b2b/product/NJ1720/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1661",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1602",
+      "name": "牛蕉",
+      "subtitle": "",
+      "price": 11.3,
+      "image": "https://img.inongjia.net/b2b/product/NJ1650/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1602",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "681",
+      "name": "苹果蕉",
+      "subtitle": "苹果蕉",
+      "price": 6.6,
+      "image": "https://img.inongjia.net/b2b/product/NJ06226/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市兴宁区,广西",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=681",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "532",
+      "name": "青金桔【小金桔】",
+      "subtitle": "维C小英雄，变美必备法宝~皮薄多汁，酸爽浓浓~小小果实，营养多多",
+      "price": 10.6,
+      "image": "https://img.inongjia.net/b2b/product/NJ0481/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=532",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "797",
+      "name": "青苹果",
+      "subtitle": "2026年新果",
+      "price": 6.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0734/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山西运城市,陕西咸阳市礼泉县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=797",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "866",
+      "name": "山东红富士苹果",
+      "subtitle": "山东纸袋苹果，品相和口感都不错",
+      "price": 15,
+      "image": "https://img.inongjia.net/b2b/product/NJ0802/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东临沂市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=866",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "887",
+      "name": "山东蓝莓",
+      "subtitle": "露天蓝莓，硬度高风味足",
+      "price": 17.1,
+      "image": "https://img.inongjia.net/b2b/product/NJ0827/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东临沂市兰山区,山东临沂市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=887",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "183",
+      "name": "山东蓝莓小懒杯",
+      "subtitle": "蓝色诱人 满口爆汁的蓝莓",
+      "price": 47,
+      "image": "https://img.inongjia.net/b2b/product/NJ0140/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "秘鲁",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=183",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "67",
+      "name": "山东烟台红富士",
+      "subtitle": "优质鲜美脆甜的烟台苹果，首选平安果",
+      "price": 12,
+      "image": "https://img.inongjia.net/b2b/product/NJ0028/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东烟台市莱阳市,山东烟台市芝罘区",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=67",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1730",
+      "name": "山东烟台红富士【电商果】",
+      "subtitle": "",
+      "price": 16,
+      "image": "https://img.inongjia.net/b2b/product/NJ1798/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东烟台市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1730",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1700",
+      "name": "山东樱桃小苹果",
+      "subtitle": "",
+      "price": 16,
+      "image": "https://img.inongjia.net/b2b/product/NJ1763/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1700",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1761",
+      "name": "塔希提柠檬",
+      "subtitle": "",
+      "price": 7.9,
+      "image": "https://img.inongjia.net/b2b/product/NJ1835/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1761",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "60",
+      "name": "泰国金枕榴莲",
+      "subtitle": "",
+      "price": 32,
+      "image": "https://img.inongjia.net/b2b/product/NJ0021/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "泰国",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=60",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "768",
+      "name": "泰国香水椰青",
+      "subtitle": "长在树上的矿泉水",
+      "price": 74,
+      "image": "https://img.inongjia.net/b2b/product/NJ0705/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "泰国",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=768",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "497",
+      "name": "网纹瓜",
+      "subtitle": "冰淇淋甜瓜",
+      "price": 13.3,
+      "image": "https://img.inongjia.net/b2b/product/NJ0446/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东聊城市莘县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=497",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1607",
+      "name": "威廉斯芝麻蕉",
+      "subtitle": "",
+      "price": 12.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ1656/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1607",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1265",
+      "name": "西贡蕉",
+      "subtitle": "西贡蕉",
+      "price": 10.2,
+      "image": "https://img.inongjia.net/b2b/product/NJ1187/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1265",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1238",
+      "name": "香水菠萝",
+      "subtitle": "",
+      "price": 18,
+      "image": "https://img.inongjia.net/b2b/product/NJ1157/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广东",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1238",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "573",
+      "name": "香水柠檬",
+      "subtitle": "不支持京东无界面单",
+      "price": 6,
+      "image": "https://img.inongjia.net/b2b/product/NJ0522/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=573",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "859",
+      "name": "一级带杆香蕉【禁止蕉绿】",
+      "subtitle": "小米香蕉整串，绿值，能吃能看",
+      "price": 9.2,
+      "image": "https://img.inongjia.net/b2b/product/NJ0795/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "广西南宁市西乡塘区",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=859",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "479",
+      "name": "玉菇甜瓜",
+      "subtitle": "香味浓郁、汁多蜜甜、肉嫩爽口",
+      "price": 15,
+      "image": "https://img.inongjia.net/b2b/product/NJ0428/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "山东聊城市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=479",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1655",
+      "name": "云南红心火龙果",
+      "subtitle": "云南红心火龙果",
+      "price": 10,
+      "image": "https://img.inongjia.net/b2b/product/NJ1713/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南西双版纳傣族自治州",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1655",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "1385",
+      "name": "云南钦蜜9号黄金百香果",
+      "subtitle": "云南钦蜜9号黄金百香果",
+      "price": 8,
+      "image": "https://img.inongjia.net/b2b/product/NJ1349/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南,云南红河哈尼族彝族自治州",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=1385",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "177",
+      "name": "云南人参果",
+      "subtitle": "云南人参果",
+      "price": 6.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0136/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南,云南昆明市,云南昆明市石林彝族自治县",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=177",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    },
+    {
+      "id": "692",
+      "name": "云南甜酸角",
+      "subtitle": "甜酸角，大湾角，大直角",
+      "price": 13.5,
+      "image": "https://img.inongjia.net/b2b/product/NJ0630/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
+      "period": "全年",
+      "origin": "云南昆明市",
+      "services": [
+        "一件代发",
+        "落地配",
+        "零担",
+        "整车"
+      ],
+      "url": "https://inongjia.net/Product/Detail?id=692",
+      "firstSeenAt": "2026-08-06T02:42:55.954Z",
+      "lastSeenAt": "2026-08-06T02:46:19.527Z"
+    }
+  ]
+}

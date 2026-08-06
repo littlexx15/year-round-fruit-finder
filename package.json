@@ -1,0 +1,12 @@
+{
+  "name": "nongjia-year-round-fruit-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "农甲全年水果检索工具",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

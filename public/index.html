@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全年水果雷达</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav><div class="brand"><span class="logo">果</span><span>全年水果雷达</span></div><span class="source">数据来源 · 农甲</span></nav>
+    <div class="hero-inner">
+      <p class="eyebrow">YEAR-ROUND FRUIT FINDER</p>
+      <h1>把全年可做的水果，<br><em>一次找齐。</em></h1>
+      <p class="intro">自动遍历农甲水果商品，检查产品周期，并整理成一张可以搜索、筛选和导出的清单。</p>
+      <div class="actions">
+        <button id="scanBtn" class="primary"><span>开始扫描</span><b>↗</b></button>
+        <button id="exportBtn" class="secondary">导出 CSV</button>
+      </div>
+    </div>
+    <div class="fruit-orbit" aria-hidden="true"><span>🍎</span><span>🍊</span><span>🍐</span><span>🥝</span></div>
+  </header>
+
+  <main>
+    <section class="status-card">
+      <div><span class="dot" id="statusDot"></span><strong id="statusText">正在读取状态…</strong><small id="scanTime"></small></div>
+      <div class="progress-wrap"><div class="progress"><i id="progressBar"></i></div><span id="progressText">—</span></div>
+    </section>
+
+    <section class="results-head">
+      <div><p class="eyebrow dark">LIVE INVENTORY</p><h2>全年水果清单 <span id="count">0</span></h2></div>
+      <div class="filters">
+        <label class="search"><span>⌕</span><input id="searchInput" placeholder="搜索名称、产地或规格"></label>
+        <select id="originFilter"><option value="">全部产地</option></select>
+      </div>
+    </section>
+
+    <section id="empty" class="empty">
+      <div>◎</div><h3>还没有扫描结果</h3><p>点击上方“开始扫描”，软件会自动找出所有产品周期为全年的水果。</p>
+    </section>
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <footer>本工具仅整理公开商品信息 · 请合理控制扫描频率</footer>
+  <script src="app.js"></script>
+</body>
+</html>
