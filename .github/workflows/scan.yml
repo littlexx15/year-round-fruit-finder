@@ -3,7 +3,6 @@ name: Refresh fruit data
 on:
   schedule:
     - cron: '23 1 * * *'
-      timezone: 'Asia/Shanghai'
   workflow_dispatch:
 
 permissions:
