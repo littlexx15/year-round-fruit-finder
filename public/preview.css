@@ -1,0 +1,82 @@
+.fruit-preview {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: linear-gradient(145deg, #187c4d, #0e633b);
+}
+.fruit-preview::before {
+  content: "";
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: 50%;
+  box-shadow: 0 0 0 24px rgba(255,255,255,.035);
+}
+.fruit-main {
+  position: relative;
+  font-size: 90px;
+  line-height: 1;
+  filter: drop-shadow(0 18px 13px rgba(0,0,0,.2));
+  transform: rotate(-6deg);
+}
+.fruit-accent { position: absolute; color: var(--lime); opacity: .75; font-size: 24px; }
+.fruit-accent.a { left: 16%; top: 19%; }
+.fruit-accent.b { right: 17%; bottom: 18%; font-size: 16px; }
+.theme-citrus,.theme-mango { background: linear-gradient(145deg,#936b19,#256c3d); }
+.theme-lemon { background: linear-gradient(145deg,#647729,#177247); }
+.theme-grape,.theme-blueberry,.theme-tropical { background: linear-gradient(145deg,#594576,#176345); }
+.theme-berry,.theme-cherry,.theme-peach { background: linear-gradient(145deg,#8d3d4e,#176b45); }
+.theme-melon,.theme-coconut,.theme-pineapple,.theme-durian { background: linear-gradient(145deg,#7c742b,#176b45); }
+.copy-name {
+  width: 100%;
+  padding: 0;
+  margin: 0 0 8px;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  text-align: left;
+  cursor: pointer;
+}
+.copy-name span { font-size: 18px; font-weight: 800; }
+.copy-name i { font-style: normal; font-size: 11px; color: var(--green); opacity: 0; transition: .18s; }
+.copy-name:hover span { text-decoration: underline; text-decoration-color: var(--lime); text-decoration-thickness: 4px; text-underline-offset: 3px; }
+.copy-name:hover i { opacity: 1; }
+.card .detail-link {
+  position: static;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 15px;
+  padding-top: 13px;
+  border-top: 1px solid #eceee9;
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+}
+.card .detail-link:hover { text-decoration: underline; }
+.toast {
+  position: fixed;
+  z-index: 99;
+  left: 50%;
+  bottom: 28px;
+  transform: translate(-50%,20px);
+  background: var(--ink);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.22);
+  font-size: 13px;
+  opacity: 0;
+  pointer-events: none;
+  transition: .22s;
+}
+.toast.show { opacity: 1; transform: translate(-50%,0); }

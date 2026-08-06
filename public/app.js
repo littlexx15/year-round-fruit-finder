@@ -25,6 +25,49 @@ function isNew(item) {
   return Math.abs(new Date(data.scannedAt) - new Date(item.firstSeenAt)) < 5000;
 }
 
+function fruitVisual(name, id) {
+  const rules = [
+    [/香蕉|蕉/, ['🍌', 'banana']], [/苹果|富士/, ['🍎', 'apple']],
+    [/梨/, ['🍐', 'pear']], [/柠檬/, ['🍋', 'lemon']],
+    [/橙|柑|桔|橘|柚/, ['🍊', 'citrus']], [/西瓜/, ['🍉', 'melon']],
+    [/葡萄|提子/, ['🍇', 'grape']], [/草莓/, ['🍓', 'berry']],
+    [/蓝莓/, ['🫐', 'blueberry']], [/樱桃|车厘子/, ['🍒', 'cherry']],
+    [/桃/, ['🍑', 'peach']], [/菠萝|凤梨/, ['🍍', 'pineapple']],
+    [/芒果/, ['🥭', 'mango']], [/猕猴桃|奇异果/, ['🥝', 'kiwi']],
+    [/椰/, ['🥥', 'coconut']], [/牛油果/, ['🥑', 'avocado']],
+    [/柿子/, ['🍅', 'persimmon']], [/哈密瓜|甜瓜|蜜瓜|木瓜/, ['🍈', 'melon']],
+    [/火龙果|百香果|人参果|芭乐|番石榴/, ['●', 'tropical']], [/榴莲/, ['✹', 'durian']]
+  ];
+  const found = rules.find(([pattern]) => pattern.test(name));
+  const [emoji, theme] = found ? found[1] : ['🍏', 'green'];
+  const seed = Number.parseInt(String(id), 10) || 1;
+  const accents = ['●', '✦', '•'];
+  return `<div class="fruit-preview theme-${theme}" aria-label="${escapeHtml(name)}的插画预览"><span class="fruit-accent a">${accents[seed % accents.length]}</span><span class="fruit-main">${emoji}</span><span class="fruit-accent b">${accents[(seed + 1) % accents.length]}</span></div>`;
+}
+
+let toastTimer;
+function showToast(message) {
+  const toast = $('#toast');
+  toast.textContent = message;
+  toast.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('show'), 1800);
+}
+
+async function copyName(name) {
+  try { await navigator.clipboard.writeText(name); }
+  catch {
+    const input = document.createElement('textarea');
+    input.value = name;
+    input.style.cssText = 'position:fixed;opacity:0';
+    document.body.appendChild(input);
+    input.select();
+    document.execCommand('copy');
+    input.remove();
+  }
+  showToast(`已复制：${name}`);
+}
+
 function render() {
   const term = $('#searchInput').value.trim().toLowerCase();
   const origin = $('#originFilter').value;
@@ -37,14 +80,14 @@ function render() {
   $('#empty h3').textContent = data.products.length ? '没有符合筛选条件的商品' : '还没有扫描结果';
   $('#grid').innerHTML = products.map(item => `
     <article class="card">
-      <div class="photo"><img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.name)}" loading="lazy"></div>
+      <div class="photo">${fruitVisual(item.name, item.id)}</div>
       <div class="card-body">
         <div class="badges"><span class="period">产品周期 · 全年</span>${isNew(item) ? '<span class="new">本次新增</span>' : ''}</div>
-        <h3>${escapeHtml(item.name)}</h3>
+        <button class="copy-name" data-name="${escapeHtml(item.name)}" title="点击复制商品名称"><span>${escapeHtml(item.name)}</span><i>复制</i></button>
         <div class="subtitle">${escapeHtml(item.subtitle || '暂无规格说明')}</div>
         <div class="meta"><span>${escapeHtml(item.origin || '产地未注明')}</span><span class="price">¥${Number(item.price).toFixed(2)}</span></div>
+        <a class="detail-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">查看原商品 <span>↗</span></a>
       </div>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" aria-label="查看 ${escapeHtml(item.name)}"></a>
     </article>`).join('');
 }
 
@@ -125,6 +168,10 @@ $('#scanBtn').addEventListener('click', startScan);
 $('#exportBtn').addEventListener('click', exportCsv);
 $('#searchInput').addEventListener('input', render);
 $('#originFilter').addEventListener('change', render);
+$('#grid').addEventListener('click', event => {
+  const button = event.target.closest('.copy-name');
+  if (button) copyName(button.dataset.name);
+});
 
 if (location.protocol === 'file:') {
   $('#statusText').textContent = connectionMessage();
