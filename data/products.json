@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-24T02:39:17.333Z",
+  "scannedAt": "2026-08-25T02:32:58.369Z",
   "totalScanned": 153,
   "totalPages": 13,
   "failedCount": 0,
@@ -21,7 +21,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=760",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "916",
@@ -39,7 +39,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=916",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "686",
@@ -57,13 +57,13 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=686",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1438",
       "name": "福建红白双拼芭乐",
       "subtitle": "",
-      "price": 9,
+      "price": 9.5,
       "image": "https://img.inongjia.net/b2b/product/NJ1431/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
       "period": "全年",
       "origin": "福建",
@@ -75,13 +75,13 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1438",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1437",
       "name": "福建红心芭乐",
       "subtitle": "",
-      "price": 9.5,
+      "price": 9.8,
       "image": "https://img.inongjia.net/b2b/product/NJ1430/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
       "period": "全年",
       "origin": "福建",
@@ -93,7 +93,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1437",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1647",
@@ -111,7 +111,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1647",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1514",
@@ -129,7 +129,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1514",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "470",
@@ -147,7 +147,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=470",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1018",
@@ -165,7 +165,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1018",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "469",
@@ -183,7 +183,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=469",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "945",
@@ -201,13 +201,13 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=945",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "45",
       "name": "广西红心木瓜",
       "subtitle": "",
-      "price": 5.4,
+      "price": 5.5,
       "image": "https://img.inongjia.net/b2b/product/NJ0006/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
       "period": "全年",
       "origin": "广西南宁市兴宁区,广西南宁市",
@@ -219,7 +219,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=45",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "569",
@@ -237,7 +237,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=569",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "63",
@@ -255,7 +255,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=63",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "808",
@@ -273,7 +273,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=808",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "570",
@@ -291,7 +291,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=570",
       "firstSeenAt": "2026-08-22T02:29:34.098Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "43",
@@ -309,7 +309,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=43",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "887",
@@ -327,7 +327,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=887",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "183",
@@ -345,7 +345,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=183",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1036",
@@ -363,7 +363,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1036",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1718",
@@ -381,7 +381,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1718",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "460",
@@ -399,7 +399,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=460",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "789",
@@ -417,7 +417,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=789",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1398",
@@ -435,7 +435,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1398",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "123",
@@ -453,7 +453,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=123",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1661",
@@ -471,7 +471,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1661",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1602",
@@ -489,7 +489,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1602",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "681",
@@ -507,7 +507,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=681",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "532",
@@ -525,7 +525,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=532",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "797",
@@ -543,7 +543,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=797",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "866",
@@ -561,7 +561,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=866",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "67",
@@ -579,7 +579,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=67",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1730",
@@ -597,7 +597,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1730",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "60",
@@ -615,7 +615,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=60",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "768",
@@ -633,13 +633,13 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=768",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1390",
       "name": "泰国椰皇",
       "subtitle": "泰国椰皇 ",
-      "price": 34,
+      "price": 31,
       "image": "https://img.inongjia.net/b2b/product/NJ1355/main.jpg?x-oss-process=image/resize,m_fill,h_164,w_180",
       "period": "全年",
       "origin": "泰国",
@@ -651,7 +651,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1390",
       "firstSeenAt": "2026-08-16T02:36:11.958Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "497",
@@ -669,7 +669,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=497",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1607",
@@ -687,7 +687,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1607",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1265",
@@ -705,7 +705,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1265",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1238",
@@ -723,7 +723,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1238",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "573",
@@ -741,7 +741,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=573",
       "firstSeenAt": "2026-08-20T02:32:24.333Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "859",
@@ -759,7 +759,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=859",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "479",
@@ -777,7 +777,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=479",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1790",
@@ -795,7 +795,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1790",
       "firstSeenAt": "2026-08-19T02:33:27.466Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1655",
@@ -813,7 +813,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1655",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "1385",
@@ -831,7 +831,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=1385",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "177",
@@ -849,7 +849,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=177",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     },
     {
       "id": "692",
@@ -867,7 +867,7 @@
       ],
       "url": "https://inongjia.net/Product/Detail?id=692",
       "firstSeenAt": "2026-08-06T02:42:55.954Z",
-      "lastSeenAt": "2026-08-24T02:39:17.333Z"
+      "lastSeenAt": "2026-08-25T02:32:58.369Z"
     }
   ]
 }
