@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: fruit-scan
@@ -14,6 +16,9 @@ concurrency:
 
 jobs:
   scan:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,3 +34,15 @@ jobs:
           git add data/products.json
           git diff --cached --quiet || git commit -m "data: refresh year-round fruit list"
           git push
+      - name: Assemble static website with fresh data
+        run: |
+          mkdir -p dist/data
+          cp -R public/. dist/
+          cp data/products.json dist/data/products.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy fresh data to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
